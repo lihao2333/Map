@@ -1,0 +1,6 @@
+load data local infile 'locs.txt' into table MapModel_Loc fields terminated by ',' lines terminated by '\n';
+//install rtlsdr
+sudo pip install pyrtlsdr
+sduo apt-get install librtlsdr-dev
+ldconfig
+reboot

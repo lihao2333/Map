@@ -1,0 +1,5 @@
+//install rtlsdr
+sudo pip install pyrtlsdr
+sduo apt-get install librtlsdr-dev
+ldconfig
+reboot
